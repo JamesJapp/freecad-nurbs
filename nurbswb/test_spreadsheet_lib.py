@@ -5,7 +5,7 @@
 #
 
 import pytest
-import ss_lib
+import spreadsheet_lib
 
 def test_cellname():
     ''' Tests correct spreadsheet cell name returned. '''
